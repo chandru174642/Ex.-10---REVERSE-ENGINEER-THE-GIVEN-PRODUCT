@@ -19,7 +19,7 @@
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
-### after click the start option and select printing option standard as shown in below figure.
+### after click the start option and select printing option standard as shown in below faigure.
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
@@ -38,8 +38,8 @@
 
 <img width="1281" height="909" alt="510071174-41e5e0d9-8fa4-445d-bffc-0cd3148a7888" src="https://github.com/user-attachments/assets/e74a67f5-cdd3-4afd-b4e3-28952fd02c05" />
 
-### Name: Akshay M
-### Register Number: 212224240009
+### Name: CHANDRU P
+### Register Number: 212223110007
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
